@@ -1,0 +1,15 @@
+Date|Outlook|Windy|Result
+07-01-2014|sunny|false|Don't Play
+07-02-2014|sunny|true|Don't Play
+07-03-2014|overcast|false|Play
+07-04-2014|rain|false|Play
+07-03-2014|rain|false|Play
+07-03-2014|rain|true|Don't Play
+07-03-2014|overcast|true|Play
+07-03-2014|sunny|false|Don't Play
+07-03-2014|sunny|false|Play
+07-03-2014|rain|false|Play
+07-03-2014|sunny|true|Play
+07-03-2014|overcast|true|Play
+07-03-2014|overcast|false|Play
+07-03-2014|rain|true|Don't Play
